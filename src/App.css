@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+  background: url(https://wallpaperset.com/w/full/6/b/4/313181.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+padding: 50px 0;
+}
+
+.card1 {
+  
+  width: 300px;
+  margin: auto auto;
+  background: rgb(211, 205, 205);
+  height: 600px;
+}
+
+
